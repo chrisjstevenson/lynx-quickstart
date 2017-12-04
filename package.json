@@ -4,7 +4,7 @@
   "description": "Lynx quick start project ",
   "scripts": {
     "start": "npm run static",
-    "static": "node node_modules/@lynx-json/lynx-docs/src/cli/index.js start --port 8080",
+    "static": "node node_modules/@lynx-json/lynx-docs/src/cli/index.js start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

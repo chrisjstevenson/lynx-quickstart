@@ -19,8 +19,8 @@ npm start
 
 Open browser to [http://localhost:8080/client/index.html](http://localhost:8080/client/index.html)
 
-## Lynx media type (application/lynx+json)
-Lynx is a hypertext media type that was created to fit a perceived space between data formats with no connections (.json, .xml, etc.) and display formats (HTML, iOS, Android, etc.). A primary goal of Lynx is to separate process (hypertext) and information (data, metadata) from display, thereby allowing different display contexts (web, mobile, desktop, other) to present the information in a way appropriate for that medium. The separation further allows for the process and information to change separately from the display.
+## Lynx media type
+Lynx (application/lynx+json) is a hypertext media type that was created to fit a perceived space between data formats with no connections (.json, .xml, etc.) and display formats (HTML, iOS, Android, etc.). A primary goal of Lynx is to separate process (hypertext) and information (data, metadata) from display, thereby allowing different display contexts (web, mobile, desktop, other) to present the information in a way appropriate for that medium. The separation further allows for the process and information to change separately from the display.
 
 The media type specification can be found at [http://lynx-json.org/specification/](http://lynx-json.org/specification/).
 

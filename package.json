@@ -1,0 +1,29 @@
+{
+  "name": "lynx-quickstart",
+  "version": "0.0.1",
+  "description": "Lynx quick start project ",
+  "scripts": {
+    "start": "npm run static",
+    "static": "node node_modules/@lynx-json/lynx-docs/src/cli/index.js start --port 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lynx-json/lynx-quickstart.git"
+  },
+  "keywords": [
+    "lynx",
+    "lynx-docs",
+    "jsua",
+    "jsua-lynx"
+  ],
+  "author": "lynx-json.org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lynx-json/lynx-quickstart/issues"
+  },
+  "homepage": "https://github.com/lynx-json/lynx-quickstart#readme",
+  "dependencies": {
+    "@lynx-json/lynx-docs": "^0.18.0"
+  }
+}

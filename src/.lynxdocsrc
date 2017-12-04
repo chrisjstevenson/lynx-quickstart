@@ -1,0 +1,5 @@
+root:
+  - "./templates"
+  - "./static"
+start:
+  port: 8080

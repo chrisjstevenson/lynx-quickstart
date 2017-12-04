@@ -1,0 +1,5 @@
+">card":
+  spec.labeledBy: label
+  header>:
+    label>: Lynx quick start repository
+  message>text: This repo contains a working lynx server (lynx-docs) and lynx HTML/JavaScript client (./src/client). You may fork this repository to create your own lynx application or modify the templates and client display functions to explore and learn the concepts of authoring and presenting lynx documents.
